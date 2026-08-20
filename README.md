@@ -43,20 +43,8 @@ The `genres_tuple` variable contains:
 
 3. Launch the notebook:
    ```bash
-   jupyter notebook tuples-python.ipynb
+   jupyter notebook PY0101EN-2-1-Tuples.ipynb
    ```
-
-##  Usage
-
-Open the notebook and run the cells to explore the tuple. Example:
-
-```python
-genres_tuple = ("Abacus", "pop", "rock", "soul", ("hard rock", "soft rock"),
-                "R&B", "progressive rock", "disco", ("english", "spanish", "iceland"))
-
-# Accessing a nested element
-print(genres_tuple[4][1])  # Output: soft rock
-```
 
 ##  Project Structure
 
